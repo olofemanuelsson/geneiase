@@ -78,7 +78,7 @@ Examples of how to format the input files you find in the directory 'test' as pa
 ### Citing GeneiASE
 If you use GeneiASE, please cite it as follows:
 
-Edsgärd D. et al., GeneiASE: Detection of condition-dependent and static allele-specific expression from RNA-seq data without haplotype information, <em>Scientific Reports</em>, 2016
+Edsgärd D. et al., GeneiASE: Detection of condition-dependent and static allele-specific expression from RNA-seq data without haplotype information, <em>Scientific Reports</em>, 2016. https://doi.org/10.1038/srep21134
 
 ### Contact
 Please contact the corresponding author if you have technical issues or other comments or questions:<br/>
